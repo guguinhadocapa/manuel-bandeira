@@ -1,4 +1,9 @@
 header{
-    background-color: #ff3300;
+    background-color: #c43a18;
     color: rgba(0, 4, 253, 0.678);
+    display: flex;
+    justify-content: space-around;
+}
+.madrasta{
+    width: 40%;
 }
